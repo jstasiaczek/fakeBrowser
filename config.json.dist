@@ -1,0 +1,7 @@
+{
+	"DirectoryToSave" 	: "/where/to/save/UrlSync",
+	"UseFiles" 			: true,
+	"UseHttp" 			: false,
+	"HttpUrl"			: "http://localhost:4040",
+	"SecretKey"			: "some-secret-key"
+}
